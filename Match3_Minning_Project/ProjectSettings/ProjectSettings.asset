@@ -887,11 +887,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 72f3e695-277b-4394-8d78-1795a46c8af6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: Match3_Minning_Project 2024-03-28_17-22-38
+  organizationId: unity_896a0bfbc59207668a69
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
